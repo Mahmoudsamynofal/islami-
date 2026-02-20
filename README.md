@@ -16,7 +16,7 @@ Islami is a Flutter mobile application that helps Muslims with daily worship by 
 ## 🖼️ Screenshots
 
 <p float="left">
-  <img src="screenshots/home.png" width="200" />
+  <img src="screenshots/home.jpeg" width="200" />
 
 </p>
 
